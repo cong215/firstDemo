@@ -22,7 +22,6 @@
 
     <modules>
         <module>eureka-server</module>
-        <module>eureka-server-1</module>
         <module>config-server</module>
         <module>ribbon-consumer</module>
         <module>web</module>
